@@ -23,12 +23,12 @@
 
 body {
   /* TODO: background-color */
-  background-color: #abfff4;
+  background-color: #f4fffe;
 }
 
 #topo {
   /* TODO: background-color */
-  background-color: orange;
+  background-color: rgb(108, 255, 255);
 }
 
 h1 {
@@ -47,7 +47,7 @@ h1 {
   /* TODO: padding, border e margin */
   margin: 2rem;
   padding: 0.75rem;
-  border: 3px dashed blue;
+  border: 3px dashed black;
 }
 
 .btn {
